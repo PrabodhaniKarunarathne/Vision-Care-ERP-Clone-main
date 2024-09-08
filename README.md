@@ -1,9 +1,10 @@
+# Vision-Care-ERP-Project
 <p>Project for the Software system to Vision Care Optical Services which is
 an island wide optical service company with 30 years of experience. The
 company will house for more than 1000 of employees and Millions of
 customer base. The company needs a Software system to improve their
 Sales, Stocks, and Employee management with Real-time operations. For
-the mentioned requirements this prject propose a combination of
+the mentioned requirements this project propose a combination of
 Customer Relationship Management System and Enterprise Resource
 Planner.</p>
 
